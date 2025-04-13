@@ -17,7 +17,7 @@ The store aims to create an annual sales report for 2021 and 2022. This will ena
 * Top Selling Product
 * Profit %
 
-* Dashboard Interaction: <a href="https://github.com/sritamkumar123/Sales_Dashboard/blob/main/sales_dasboard_screenshot.png">Dataset</a>
+* Dashboard Interaction: <a href="https://github.com/sritamkumar123/Sales_Dashboard/blob/main/sales_dasboard_screenshot.png">Dashboard</a>
 
 ## Process
 * Verify data for any missing values and anomalies, and sort out the same
